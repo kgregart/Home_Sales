@@ -1,9 +1,12 @@
 # Home_Sales
 
-Use SparkSQL to determine key metrics about home sales data. Create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+# Objective
 
+Determine key metrics about home sales data using SparkSQL.
 
 # Instructions
+
+Use SparkSQL to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.  
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
@@ -15,13 +18,13 @@ Use SparkSQL to determine key metrics about home sales data. Create temporary vi
 
 5. Answer the following questions using SparkSQL:
 
-  - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+    - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
-  - What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?       Round off your answer to two decimal places.
+    - What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?       Round off your answer to two decimal places.
 
-  - What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two      floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+    - What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms,          two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
-  - What is the average price of a home per "view" rating having an average home price greater than or equal to              $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+    - What is the average price of a home per "view" rating having an average home price greater than or equal to              $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
 6. Cache your temporary table home_sales.
 
