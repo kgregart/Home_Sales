@@ -1,10 +1,12 @@
 # Home_Sales
 
-# Objective
+![sale_pending](https://github.com/kgregart/Home_Sales/blob/main/Images/sale_pending.jpg)
+
+## Objective
 
 Determine key metrics about home sales data using SparkSQL.
 
-# Instructions
+## Instructions
 
 Use SparkSQL to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.  
 
