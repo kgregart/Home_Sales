@@ -58,9 +58,9 @@ Use SparkSQL to create temporary views, partition the data, cache and uncache a 
 ![Q2](https://github.com/kgregart/Home_Sales/blob/main/Images/3_bed_3_bath.png)
 
 
-3. What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms,two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places__
+3. What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms,two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
-
+![Q3](https://github.com/kgregart/Home_Sales/blob/main/Images/2000sqft.png)
 
 4. What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
